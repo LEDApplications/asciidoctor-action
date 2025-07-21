@@ -1,4 +1,4 @@
-name: 'build asciidoctor action'
+name: 'build asciidoctor action (ledapplications)'
 author: 'Tony Vattathil'
 description: 'asciidoctor Build action'
 
