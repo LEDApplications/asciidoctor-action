@@ -1,5 +1,7 @@
 # Asciidoctor GitHub Action
 
+> :information_source: This action differs from upstream in that it includes the csv gem which was removed by default starting from Ruby 3.4.0
+
 To use this action add the below config to  **.github/workflows/adocs-build.yml**
 
 ```yaml
